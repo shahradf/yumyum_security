@@ -1,5 +1,5 @@
 from time import sleep
-import main_oop as yum
+import mudel as yum
 
 
 def banner():
